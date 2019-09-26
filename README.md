@@ -2,8 +2,9 @@
 #### Who can contribute to this repo?
   Anyone from SVCE who is passionate about Open Source and can contribute quality solutions to the aforementioned questions in any programming language.
 
-   #### When should I submit the pull request?
-  You can submit pull request(s) anytime from October 1, 2019 to October 31, 2019. If your pull requests meet a threshold quality, they will be merged, else shall be marked as spam.
+   #### When and should I submit pull request(s)?
+  You can submit pull request(s) anytime from October 1, 2019 to October 31, 2019. If your pull request(s) meet a certian threshold quality, they will be merged, else shall be marked as spam.
+  Here is an excellent [repo](https://github.com/Logic-Xcution/Kickoff-To-Open-Source) explaining how to make your first pull request.
 
   #### What language should I use to code?
   All programming languages are more than just welcomed here.
@@ -19,7 +20,7 @@
  Email Id : <insert your E-mail Id>
  /*insert your code here*/
  ```
- 
+
  Rename your file as `Language_Username` and place it in the appropriate folder.
 
  #### I forked the repository but some questions were added only after that. How do I access those?
@@ -34,4 +35,3 @@ This does not happen until you modify an existing file in the repository. The ea
 
   #### I believe there is a mistake/error in one or more of the questions.
   Open an [issue](https://github.com/SVCE-HacktoberFest2019/AlgorithmsDaily/issues) on the bug tracker and we will get back to you.
-
