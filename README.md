@@ -9,6 +9,13 @@ Given a number n, print all primes smaller than or equal to n. It is also given 
   You can submit pull request(s) anytime from October 1, 2019 to October 31, 2019. If your pull request(s) meet a certain threshold quality, they will be merged, else shall be marked as spam.
   Here is an excellent [repo](https://github.com/Logic-Xcution/Kickoff-To-Open-Source) explaining how to make your first pull request.
   **Send a pull request only after you complete at least one problem.**
+=======
+#### Who can contribute to this repo?
+  Anyone from SVCE who is passionate about Open Source and can contribute quality solutions to the aforementioned questions in any programming language.
+
+   #### When and should I submit pull request(s)?
+  You can submit pull request(s) anytime from October 1, 2019 to October 31, 2019. If your pull request(s) meet a certian threshold quality, they will be merged, else shall be marked as spam.
+  Here is an excellent [repo](https://github.com/Logic-Xcution/Kickoff-To-Open-Source) explaining how to make your first pull request.
 
   #### What language should I use to code?
   All programming languages are more than just welcomed here.
