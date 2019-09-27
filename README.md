@@ -1,34 +1,4 @@
 # AlgorithmsDaily
-
-#### Problem 1 - Sieve of Erastosthenes
-Given a number n, print all primes smaller than or equal to n. It is also given that n is a small number.
-
-#### Problem 3 - Roman Numerals to Decimals
-Write a program to convert the given roman numeral into decimal form.
- 
-#### Problem 4 - Construct BST from Preorder and Inorder Traversals
-Given the preorder and inorder traversals of a BST, construct the BST and print it's postorder traversal.
-
-#### Problem - FLAMES
-This is a simple game you must have played around with during your teenage days, calculating FLAMES of you and your crush! Given the names of two people, cancel out the common letters (repeated occurrence of a letter is treated separately, so 2A's in one name and one A in the other would cancel one A in each name), count the total number of remaining letters (n) and repeatedly cut the letter in the word FLAMES which hits at the nth number when we count from F in cyclic manner.
-```bash
-For example:
-NAME 1: RANVEER
-NAME 2: DEEPIKA
-After cutting the common letters: 
-NAME 1: RNVR 
-NAME 2: DPIK
-Total number of letters left=8
-FLAMES, start counting from F : 1=F, 2=L, 3=A, 4=M, 5=E, 6=S, 7=F,8=L ...So cut L
-FLAMES: repeat this process with remaining letters of FLAMES for number 8 (start count from the letter after 
-the last letter cut) . In the end, one letter remains. Print the result corresponding to the last letter:
-F=FRIENDS
-L=LOVE
-A=ADORE
-M=MARRIAGE
-E=ENEMIES
-S=SISTER
-```
 #### Who can contribute to this repo?
   Anybody from SVCE who is passionate about Open Source and can contribute quality solutions to the aforementioned questions in any programming language.
 
