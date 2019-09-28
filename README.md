@@ -1,4 +1,36 @@
 # AlgorithmsDaily
+<div align="left">
+  <img src="img/Q1.png" width="900" height="300"></img>
+</div>
+<div align="left">
+  <img src="img/Q2.png" width="900" height="300"></img>
+</div>
+<div align="left">
+  <img src="img/Q3.png" width="900" height="300"></img>
+</div>
+<div align="left">
+  <img src="img/Q4.png" width="900" height="300"></img>
+</div>
+<div align="left">
+  <img src="img/Q5.png" width="900" height="300"></img>
+</div>
+<div align="left">
+  <img src="img/Q6.png" width="900" height="300"></img>
+</div>
+<div align="left">
+  <img src="img/Q7.png" width="900" height="300"></img>
+</div>
+<div align="left">
+  <img src="img/Q8.png" width="900" height="300"></img>
+</div>
+<div align="left">
+  <img src="img/Q9.png" width="900" height="300"></img>
+</div>
+<div align="left">
+  <img src="img/Q10.png" width="900" height="300"></img>
+</div>
+
+
 #### Who can contribute to this repo?
   Anybody who is passionate about Open Source and can contribute quality solutions to the aforementioned questions in any programming language.
 
