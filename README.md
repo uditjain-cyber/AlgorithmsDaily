@@ -71,6 +71,7 @@ This is a repository created for contribution to HacktoberFest 2019. All you nee
   We have maintained a folder for each problem. Make sure your file format is as follows:-
  ```bash
  Name : <insert your name>
+ College : <insert College Name>
  Year/Branch : <insert year/insert branch>
  Email Id : <insert your E-mail Id>
 
@@ -78,7 +79,7 @@ This is a repository created for contribution to HacktoberFest 2019. All you nee
 
  ```
 
- Rename your file as `Language_Username` and place it in the appropriate folder.
+Name your file as `Language_Username` and place it in the appropriate folder.
 
  #### I forked the repository but some questions were added only after that. How do I access those?
   Open Git Bash or your Command Prompt and navigate over to your forked repository. Enter the following commands:
