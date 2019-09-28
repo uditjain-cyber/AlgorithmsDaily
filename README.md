@@ -1,6 +1,6 @@
 # AlgorithmsDaily
 #### What is this?
-This is a repository created for contribution to HacktoberFest 2019. All you need to do is implement solutions to the below questions and send in a pull request, so that you can stand a chance to win a limited edition HacktoberFest T-Shirt. For more details, check out the FAQ's section. 
+This is a repository created for contribution to HacktoberFest 2019. All you need to do is implement solutions to the below questions and send in a pull request, so that you can stand a chance to win a limited edition HacktoberFest T-Shirt. Make sure you register [here](https://hacktoberfest.digitalocean.com/) before you start sending in pull requests. For more details, check out the FAQ's section. 
 ### Problem 1
 <div align="left">
   <img src="img/Q1.png" width="900" height="300"></img>
