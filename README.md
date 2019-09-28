@@ -57,7 +57,7 @@ This is a repository created for contribution to HacktoberFest 2019. All you nee
 
 #### When should I submit pull request(s)?
   You can submit pull request(s) anytime from October 1, 2019 to October 31, 2019. If your pull request(s) meet a certain threshold quality, they will be merged, else shall be marked as spam.
-  Here is an excellent [repo](https://github.com/Logic-Xcution/Kickoff-To-Open-Source) explaining how to make your first pull request.
+  Here is an excellent [repo](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) explaining how to make your first pull request.
   
   **Send a pull request only after you complete at least one problem.**
 
@@ -92,3 +92,6 @@ This does not happen until you modify an existing file in the repository. The ea
 
   #### I believe there is a mistake/error in one or more of the questions.
   Open an [issue](https://github.com/SVCE-HacktoberFest2019/AlgorithmsDaily/issues) on the bug tracker and we will get back to you.
+  
+  #### What should I do after contributing?
+  Check [here](https://hacktoberfest.digitalocean.com/profile) if your pull requests are being counted towards your progress.
