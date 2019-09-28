@@ -99,3 +99,5 @@ This does not happen until you modify an existing file in the repository. The ea
   
   #### What should I do after contributing?
   Check [here](https://hacktoberfest.digitalocean.com/profile) if your pull requests are being counted towards your progress.
+  
+  If you did enjoy solving the problems, please do give us a star so that we can reach out to more people.
