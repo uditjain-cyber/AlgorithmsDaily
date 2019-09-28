@@ -1,19 +1,12 @@
 # AlgorithmsDaily
 #### Who can contribute to this repo?
-  Anybody from SVCE who is passionate about Open Source and can contribute quality solutions to the aforementioned questions in any programming language.
+  Anybody who is passionate about Open Source and can contribute quality solutions to the aforementioned questions in any programming language.
 
 #### When and how do I submit pull request(s)?
   You can submit pull request(s) anytime from October 1, 2019 to October 31, 2019. If your pull request(s) meet a certain threshold quality, they will be merged, else shall be marked as spam.
   Here is an excellent [repo](https://github.com/Logic-Xcution/Kickoff-To-Open-Source) explaining how to make your first pull request.
   
   **Send a pull request only after you complete at least one problem.**
-
-#### Who can contribute to this repo?
-  Anyone from SVCE who is passionate about Open Source and can contribute quality solutions to the aforementioned questions in any programming language.
-
-   #### When and should I submit pull request(s)?
-  You can submit pull request(s) anytime from October 1, 2019 to October 31, 2019. If your pull request(s) meet a certian threshold quality, they will be merged, else shall be marked as spam.
-  Here is an excellent [repo](https://github.com/Logic-Xcution/Kickoff-To-Open-Source) explaining how to make your first pull request.
 
   #### What language should I use to code?
   All programming languages are more than just welcomed here.
@@ -25,7 +18,7 @@
   We have maintained a folder for each problem. Make sure your file format is as follows:-
  ```bash
  Name : <insert your name>
- Year/Department : <insert year/insert department>
+ Year/Branch : <insert year/insert branch>
  Email Id : <insert your E-mail Id>
 
  /*insert your code here*/
@@ -35,7 +28,7 @@
  Rename your file as `Language_Username` and place it in the appropriate folder.
 
  #### I forked the repository but some questions were added only after that. How do I access those?
-  Open Git Bash or you Command Prompt and navigate over to your forked repository. Enter the following commands:
+  Open Git Bash or your Command Prompt and navigate over to your forked repository. Enter the following commands:
   ```bash
   git remote add origin https://github.com/SVCE-HacktoberFest2019/AlgorithmsDaily.git
   git fetch origin
