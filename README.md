@@ -1,6 +1,6 @@
 # AlgorithmsDaily
 #### What is this?
-This is a repository created for contribution to HacktoberFest 2019. All you need to do is implement solutions to the below question(s) and send in a pull request, so that you can stand a chance to win a limited edition HacktoberFest T-Shirt. For more details, check out the FAQ's section. 
+This is a repository created for contribution to HacktoberFest 2019. All you need to do is implement solutions to the below questions and send in a pull request, so that you can stand a chance to win a limited edition HacktoberFest T-Shirt. For more details, check out the FAQ's section. 
 ### Problem 1
 <div align="left">
   <img src="img/Q1.png" width="900" height="300"></img>
@@ -55,7 +55,7 @@ This is a repository created for contribution to HacktoberFest 2019. All you nee
 #### Who can contribute to this repo?
   Anybody who is passionate about Open Source and can contribute quality solutions to the aforementioned questions in any programming language.
 
-#### When and how do I submit pull request(s)?
+#### When should I submit pull request(s)?
   You can submit pull request(s) anytime from October 1, 2019 to October 31, 2019. If your pull request(s) meet a certain threshold quality, they will be merged, else shall be marked as spam.
   Here is an excellent [repo](https://github.com/Logic-Xcution/Kickoff-To-Open-Source) explaining how to make your first pull request.
   
