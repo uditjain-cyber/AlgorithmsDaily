@@ -1,3 +1,9 @@
+/*
+Name : NILESH D
+College Name : SVCE
+Year/Department : II/IT
+E-Mail Id : nileshlund@gmail.com
+*/
 //A program to check if a string contains balanced parantheses.
 # include <iostream>
 # include <stack>
