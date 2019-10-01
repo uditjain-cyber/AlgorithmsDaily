@@ -1,3 +1,9 @@
+/*
+Name : NILESH D
+College Name : SVCE
+Year/Department : II/IT
+E-Mail Id : nileshlund@gmail.com
+*/
 // A program to implement the Sieve Of Eratosthenes algorithm.
 //Time Complexity : O(n log n log n)
 # include <iostream>
