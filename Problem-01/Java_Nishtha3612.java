@@ -1,14 +1,9 @@
 
-
 /*
-This is a sample file explaining the format of your code. Do not make any changes to the file.
 Author : <Nishtha>
 College : <Guru Nanak Dev Engineering College Ludhiana,Punjab,India>
 Year/Department : <3rd Year>/<Computer Science and Enginerring>
 E-Mail Id : <nishthaarora002@gmail.com>
-
-Insert Your Code Here
-*/
 import java.util.Scanner;
 
  class Sieve
