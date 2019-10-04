@@ -26,13 +26,12 @@ void printNthFromLast(Node *head, int n)
      { 
         if(sec_ptr == NULL) 
         { 
-           cout<<"n is greater than no. of nodes in the given list"<<endl;
+           cout<<n<<" is greater than no. of nodes in the given list"<<endl;
            return; 
         } 
         sec_ptr = sec_ptr->next; 
         count++; 
      } 
-  
      while(sec_ptr != NULL) 
      { 
         main_ptr = main_ptr->next; 
@@ -45,9 +44,7 @@ void printNthFromLast(Node *head, int n)
 //Inserts node at the beginning of linked list 
 void push(Node** head_sec, int new_data) 
 { 
-  
-  Node* new_node = new Node();  
-  
+  Node* new_node = new Node();
   new_node->data  = new_data; 
   new_node->next = (*head_sec);     
   (*head_sec) = new_node; 
