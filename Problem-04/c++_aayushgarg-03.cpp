@@ -66,19 +66,19 @@ node* newNode(char data)
     return (Node);  
 }  
 
-void printInorder(node* node)  
-{  
-    if (node == NULL)  
-        return;  
-  
-   
-    printInorder(node->left);  
+void printPostorder(struct Node* node) 
+{ 
+    if (node == NULL) 
+        return; 
   
     
-    cout<<node->data<<" ";  
+    printPostorder(node->left); 
   
-   
-    printInorder(node->right);  
+    
+    printPostorder(node->right); 
+  
+    
+    cout << node->data << " "; 
 }  
   
 
