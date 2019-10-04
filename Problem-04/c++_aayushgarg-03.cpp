@@ -66,7 +66,7 @@ node* newNode(char data)
     return (Node);  
 }  
 
-void printPostorder(struct Node* node) 
+void printPostorder( node* node) 
 { 
     if (node == NULL) 
         return; 
@@ -90,6 +90,6 @@ int main()
     node* root = buildTree(in, pre, 0, len - 1);  
   
    
-    cout << "Inorder traversal of the constructed tree is \n";  
-    printInorder(root);  
+    cout << "Postorder traversal of the constructed tree is \n";  
+    printPostorder(root);  
 }  
