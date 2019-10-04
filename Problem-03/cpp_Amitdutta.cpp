@@ -1,3 +1,10 @@
+/* 
+   Author : Amit Dutta
+   College : BIT Mesra
+   Year/Department : 2nd Year/CSE
+   E-Mail Id : amitdutta2406@gmail.com
+*/
+
 #include <bits/stdc++.h> 
 using namespace std; 
   
